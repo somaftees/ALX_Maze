@@ -16,3 +16,6 @@ Workflow
 >>> use mouse movement for player 360 degree rotation.
 
 >>> ESCAPE button on keyboard is used to quit the game.
+
+
+# Tasnim Ftees & Retag Fathi
